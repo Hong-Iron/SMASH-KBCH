@@ -1,0 +1,34 @@
+{
+ "region": "경북 김천시 삼락동",
+ "nameEn": "Kyungbuk College of Health",
+ "added": "2026-11-01T02:27",
+ "rank": 229,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "GIMCHEON",
+   "campus": "김천대학교",
+   "km": 0.4
+  },
+  {
+   "code": "GUMI",
+   "campus": "구미대학교",
+   "km": 18.4
+  },
+  {
+   "code": "KNU-SANGJU",
+   "campus": "경북대학교 상주캠퍼스",
+   "km": 27.0
+  },
+  {
+   "code": "KUMOH",
+   "campus": "국립금오공과대학교",
+   "km": 27.6
+  },
+  {
+   "code": "KYUNGWOON",
+   "campus": "경운대학교",
+   "km": 34.5
+  }
+ ]
+}
